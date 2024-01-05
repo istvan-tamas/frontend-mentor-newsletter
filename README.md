@@ -1,1 +1,3 @@
-# frontend-mentor-newsletter-sign-up-with-success-message-main
+# frontend-mentor assignment
+
+newsletter-sign-up-with-success-message-main
